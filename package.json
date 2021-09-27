@@ -7,20 +7,20 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.1.5",
-    "vue-router": "^4.0.10",
+    "vue": "^3.2.19",
+    "vue-router": "^4.0.11",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.2.4",
-    "@vue/compiler-sfc": "^3.1.4",
-    "autoprefixer": "^10.3.0",
-    "eslint": "^7.30.0",
+    "@vitejs/plugin-vue": "^1.9.2",
+    "@vue/compiler-sfc": "^3.2.19",
+    "autoprefixer": "^10.3.6",
+    "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-vue": "^7.13.0",
-    "postcss": "^8.3.5",
-    "prettier": "^2.3.2",
-    "tailwindcss": "^2.2.4",
-    "vite": "^2.4.3"
+    "eslint-plugin-vue": "^7.18.0",
+    "postcss": "^8.3.8",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.5.10"
   }
 }
